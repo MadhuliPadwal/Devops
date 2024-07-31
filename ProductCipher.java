@@ -2,8 +2,7 @@ import java.util.*;
 
 class ProductCipher{
 public static void main(String args[]) { 
-        //RAj Sunil mhatre Roll No 47
-        System.out.println("RAj Sunil mhatre Roll No 47");
+        System.out.println("Hello");
         System.out.println("Enter the input to be encrypted:");
         String substitutionInput = new Scanner(System.in).nextLine(); System.out.println("Enter a number:"); 
         int n = new Scanner(System.in).nextInt(); 
